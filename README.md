@@ -4,7 +4,7 @@ KAIST EE405-AI-empowered Autonomous Car, 2022 Fall Course
 
 Won 1st place in the racing competition
 
-## Teammates
+## Authors
 Anh Tung Ho
 
 Binh Vinh Han
